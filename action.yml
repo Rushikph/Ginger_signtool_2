@@ -1,7 +1,0 @@
-name: '@Ginger_signtool_2/Sign-action-signtool.exe'
-description: This action Sign files using windows signtool.exe
-
-runs:
-  steps:
-      - name: 'Sign Tool'
-        shell: pwsh
